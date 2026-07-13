@@ -19,7 +19,7 @@ int main() {
 	
 	do {
 		
-		printf("Ingrese la altura (m): ");
+		printf("Ingrese la altura en metros: ");
 		scanf("%f", &altura);
 		
 		if (altura < 0) {
