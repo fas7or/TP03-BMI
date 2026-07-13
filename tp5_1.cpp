@@ -1,3 +1,5 @@
+//repositorio: https://github.com/fas7or/TP03-BMI/tree/main//
+
 #include <stdio.h>
 
 int main() {
@@ -9,7 +11,7 @@ int main() {
 	float promedio;
 	float mayor, menor;
 	
-	// Validación de la cantidad de estudiantes
+	// ValidaciÃ³n de la cantidad de estudiantes
 	do {
 		printf("Ingrese la cantidad de estudiantes: ");
 		scanf("%d", &cantidad);
